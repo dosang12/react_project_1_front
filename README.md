@@ -63,7 +63,7 @@
     4.  $ npx create-react-app .
     5.  $ npm i react-router-dom
     6.  $ npm i antd
-    7.  $ npm install swiper
+    7.  $ npm i swiper
     8.  $ npm i axios
     9.  $ npm start
 
